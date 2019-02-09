@@ -1,2 +1,2 @@
-# vortexhosts
-An optimized host file for AdHell3
+# Vortex Hosts
+An optimized full coverage host file optimized for Knox Based Adblockers
