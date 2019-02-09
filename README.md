@@ -18,3 +18,11 @@ The standard host file (vortex.txt) is based on the following sources:
 
 
 Link: https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex.txt
+
+
+
+The lite host file (vortex_lite.txt) is based on the following sources:
+
+- https://raw.githubusercontent.com/EnergizedProtection/block/master/spark/formats/hosts.txt
+- https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/xtreme/formats/hosts.txt
+- https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
