@@ -21,7 +21,7 @@ The standard host file (vortex.txt) is based on the following sources:
 - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 - https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
 
-STATUS: TESTING
+STATUS: FEW FALSE POSITIVES
 
 
 Link: https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex.txt
