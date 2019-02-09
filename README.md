@@ -17,4 +17,4 @@ The standard host file (vortex.txt) is based on the following sources:
 - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 
 
-r
+-- https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex.txt
