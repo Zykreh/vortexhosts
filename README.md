@@ -16,6 +16,8 @@ The standard host file (vortex.txt) is based on the following sources:
 - https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts.txt
 - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 
+STATUS: TESTING
+
 
 Link: https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex.txt
 
@@ -27,6 +29,8 @@ The lite host file (vortex_lite.txt) is based on the following sources:
 - https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/xtreme/formats/hosts.txt
 - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
 
+STATUS: STABLE
+
 
 Link: https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex_lite.txt
 
@@ -37,6 +41,8 @@ The energized host file (vortex_energized.txt) is based on the following sources
 - https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/regional/formats/hosts.txt
 - https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/xtreme/formats/hosts.txt
 - https://raw.githubusercontent.com/EnergizedProtection/block/master/bluGo/formats/hosts.txt
+
+STATUS: PROBABLY UNSTABLE (Need feedback)
 
 
 Link: https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex_energized.txt
