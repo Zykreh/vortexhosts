@@ -20,7 +20,6 @@ The standard host file (vortex.txt) is based on the following sources:
 - https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 - https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
-- https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
 STATUS: TESTING
 
