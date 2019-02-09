@@ -13,8 +13,9 @@ The standard host file (vortex.txt) is based on the following sources:
 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 - https://filters.adtidy.org/extension/chromium/filters/15.txt
 - https://filters.adtidy.org/extension/chromium/filters/11.txt
-- https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts.txt
+- https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+- https://gitlab.com/fusionjack/hosts/raw/master/hosts
 
 STATUS: TESTING
 
