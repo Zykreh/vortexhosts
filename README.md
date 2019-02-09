@@ -26,3 +26,17 @@ The lite host file (vortex_lite.txt) is based on the following sources:
 - https://raw.githubusercontent.com/EnergizedProtection/block/master/spark/formats/hosts.txt
 - https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/xtreme/formats/hosts.txt
 - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+
+
+Link: https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex_lite.txt
+
+
+
+The energized host file (vortex_energized.txt) is based on the following sources:
+
+- https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/regional/formats/hosts.txt
+- https://raw.githubusercontent.com/EnergizedProtection/block/master/extensions/xtreme/formats/hosts.txt
+- https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts.txt
+
+
+Link: https://raw.githubusercontent.com/Zykreh/vortexhosts/master/vortex_energized.txt
