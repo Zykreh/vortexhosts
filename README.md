@@ -17,7 +17,10 @@ The standard host file (vortex.txt) is based on the following sources:
 - https://filters.adtidy.org/extension/chromium/filters/2.txt
 - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
-- https://raw.githubusercontent.com/mmotti/mmotti-host-file/master/hosts
+- https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+- https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+- https://s3.amazonaws.com/lists.disconnect.me/simple_malware.txt
+- https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
 STATUS: TESTING
 
