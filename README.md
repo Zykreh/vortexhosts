@@ -1,5 +1,5 @@
 # Vortex Hosts (Samsung Knox Firewall)
-A full coverage host file optimized for Knox Based Adblockers 
+A full coverage host file optimized for Knox Adblockers 
 
 The standard host file (vortex.txt) is based on the following sources:
 
