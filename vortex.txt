@@ -15320,7 +15320,6 @@ evt.mxplay.com
 evtfjieqjhvf.com
 evup.cybertrust.ne.jp
 evyy.net
-ew1.dms-gld.bigdata.ssp.samsung.com
 ew3.io
 ewallet.jana.io
 ewbejjirdygik.com
@@ -24003,8 +24002,7 @@ locjzfoh.com
 locker.data.ksmobile.net
 lockerdome.com
 lockerdomecdn.com
-lockersamsungs8.r.xoxknct.com
-lockersamsungs8.s.xoxknct.com
+
 lockhosts.com
 lockscalecompare.com
 locktdguw9.com
