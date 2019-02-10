@@ -6965,9 +6965,7 @@ beacon.qq.com
 beacon.richrelevance.com
 beacon.riskified.com
 beacon.rtp.dailyhunt.in
-beacon.rum.dynapis.com
-beacon.samsclub.com
-beacon.scanapps.com
+beacon.rum.dynapis.combeacon.scanapps.com
 beacon.search.yahoo.com
 beacon.searchlinks.com
 beacon.shazam.com
