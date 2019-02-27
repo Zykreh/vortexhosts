@@ -40839,8 +40839,7 @@ twistads.com
 twistr.live
 
 twittad.com
-twitter.cm
-twitter.login.kevanshome.org
+twitter.cmtwitter.login.kevanshome.org
 twitter.secure.bzpharma.net
 twittercounter.com
 twitter-deals.net
