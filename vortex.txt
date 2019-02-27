@@ -40840,7 +40840,6 @@ twistr.live
 
 twittad.com
 twitter.cm
-twitter.com
 twitter.login.kevanshome.org
 twitter.secure.bzpharma.net
 twittercounter.com
